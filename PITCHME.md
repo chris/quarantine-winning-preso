@@ -64,8 +64,8 @@ Get time back, because you spend less time being interrupted or spending time on
 
 ## Dont scrimp on your office
 
-- High end chair
-- "Standing" desk (for precise height)
+1. High end chair
+2. "Standing" desk (for precise height)
 
 @snap[south span-100]
 
