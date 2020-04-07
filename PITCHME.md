@@ -119,18 +119,6 @@ https://autonomous.ai
 
 ---
 
-## Ultradian Rhythm
-
-- Find/understand what time(s) of day are best for focus for you.
-- Optimize your day around that (as best you can).
-
-@snap[south span-100]
-
-[Evernote tracker](https://www.evernote.com/shard/s308/client/snv?noteGuid=453583da-e243-4e37-8377-bd1d4e12a260&noteKey=d9ea6e6ffc977da2&sn=https://www.evernote.com/shard/s308/sh/453583da-e243-4e37-8377-bd1d4e12a260/d9ea6e6ffc977da2&title=Circadian%2BRhythm%2BTracker)
-@snapend
-
----
-
 ## My Struggle
 
 - Still find it hard to leave mid-afternoon.
@@ -152,5 +140,5 @@ Slack
 chris.bailey@gmail.com
 
 @snap[south span-100]
-Latest interests/work: serverless, Go, GIS, geospatial, PostGIS, NatureQuant (my new biz)
+Latest tech/work: serverless, Go, geospatial, GIS, PostGIS, NatureQuant™ (my new biz)
 @snapend
