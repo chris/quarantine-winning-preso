@@ -112,6 +112,10 @@ Do something to explicitly help transition. Take notes if in the middle of somet
 - Nuance and human contact are significantly improved.
 - Subtle, but valuable benefits
 
+@snap[south span-100]
+Also, stay muted unless you're talking.
+@snapend
+
 ---
 
 @snap[north span-100]
