@@ -36,7 +36,9 @@
 
 #### Consider a lot of ideas, but...
 
-#### figure out what works for you.
+#### figure out what works for you,
+
+#### just like a diet.
 
 @snap[south span-90]
 WFH articles are great sources of ideas, but absolutely not authoritative.
@@ -68,7 +70,7 @@ But realize you also get time back\*
 @snapend
 
 @snap[south span-100]
-Get time back, as you spend less time being interrupted or spending time on "non-work" social/chit-chat, etc., leaves you more time in day to do what you want outside of work.
+Get time back, as you spend less time being interrupted or spending time on "non-work" social/chit-chat, etc., leaves more time in day to do what you want _outside of work_.
 @snapend
 
 ---
@@ -84,15 +86,16 @@ Get time back, as you spend less time being interrupted or spending time on "non
 
 @snap[south span-100]
 
-https://autonomous.ai
+https://autonomous.ai or take your chair home
 @snapend
 
 ---
 
-## Use video!
+## Transition
 
-- Nuance and human contact are significantly improved.
-- Subtle, but valuable benefits
+No more commute = no more easy transition.
+
+Do something to explicitly help transition. Take notes if in the middle of something.
 
 ---
 
@@ -101,6 +104,13 @@ https://autonomous.ai
 - Easier to get/stay in the zone/flow at home
 - Read outside or on your couch
 - Go for a walk
+
+---
+
+## Use video!
+
+- Nuance and human contact are significantly improved.
+- Subtle, but valuable benefits
 
 ---
 
