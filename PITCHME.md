@@ -26,6 +26,10 @@
 
 @fa[quote-left](You are not working from home, you are at home during a crisis trying to work.)
 
+@snap[south span-95 text-04]
+@fa[laugh-wink] @fa[quote-left] A global pandemic caused by a mediocre beer turned the entire world into zombies unable to determine competence in their representatives. This lead to companies finally deciding to let their workers work from home. -Phil Haack
+@snapend
+
 ---
 
 @snap[north span-100]
